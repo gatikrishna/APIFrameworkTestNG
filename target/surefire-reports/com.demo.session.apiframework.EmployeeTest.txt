@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.demo.session.apiframework.EmployeeTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.116 s <<< FAILURE! - in com.demo.session.apiframework.EmployeeTest
+getEmployeeWithId(com.demo.session.apiframework.EmployeeTest)  Time elapsed: 0.474 s  <<< FAILURE!
+java.lang.IllegalArgumentException: baseURI cannot be null
+	at com.demo.session.apiframework.EmployeeTest.getEmployeeWithId(EmployeeTest.java:23)
+

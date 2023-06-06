@@ -1,0 +1,63 @@
+{
+    "designation": "mr",
+    "firstName": "Automation-139G7RY",
+    "lastName": "Automation-9LG8MJV",
+    "nickName": "avi-nick12",
+    "employeeNumber": "372978422",
+    "mi": "MI12",
+    "id": "4127672715",
+    "available": true,
+    "dob": "12/12/1998",
+    "note": "notenoten",
+    "address": {
+        "addressLine1": "street",
+        "city": "city",
+        "state": "NY",
+        "zip": "123451234"
+    },
+    "homePhone": "1234567890",
+    "workPhone": "1234567890",
+    "cellPhone": "1234567890",
+    "email": "abcgm@ailm.com",
+    "offices": [
+        {
+            "_id": "d461d7b9-e428-4381-996f-5c1bb8d8f12c",
+            "name": "Automation-2ZRTJJG2",
+            "isOpen": true
+        }
+    ],
+    "providerDetails": {
+        "isProvider": true,
+        "isExternalProvider": "false",
+        "materialRate": 1,
+        "contactRate": "1",
+        "drFirstCredentialDetails": {
+            "drFirstCredential": true,
+            "username": "ax",
+            "password": "abc@123",
+            "signature": "adf"
+        },
+        "directAddress": "aaaaaa",
+        "taxonomyCode": "207KA0200X",
+        "classification": "Allergy & Immunology",
+        "specialization": "Allergy",
+        "npi": "6506608846",
+        "professionalEq": "123",
+        "opticalEq": "12",
+        "surgicalEq": "123",
+        "contactEq": "12",
+        "provider": "",
+        "onlineProvider": true,
+        "deaIds": [
+            {
+                "dea": "22221111"
+            }
+        ],
+        "license": [
+            {
+                "licenseId": "12456666",
+                "state": "US"
+            }
+        ]
+    }
+}

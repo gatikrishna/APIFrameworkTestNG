@@ -1,0 +1,38 @@
+{
+    "book": 
+    [
+        {
+            "title": "Beginning JSON",
+            "author": "Ben Smith",
+            "price": 49.99,
+            "isOpen": false
+        },
+
+        {
+            "title": "JSON at Work",
+            "author": "Tom Marrs",
+            "price": 29.99,
+            "isOpen": true
+        },
+
+        {
+            "title": "Learn JSON in a DAY",
+            "author": "Acodemy",
+            "price": 8.99,
+            "isOpen": true
+        },
+
+        {
+            "title": "JSON: Questions and Answers",
+            "author": "George Duckett",
+            "price": 6.00,
+            "isOpen": false
+        }
+    ],
+
+    "price range": 
+    {
+        "cheap": 10.00,
+        "medium": 20.00
+    }
+}

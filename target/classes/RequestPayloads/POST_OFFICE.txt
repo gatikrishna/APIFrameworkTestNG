@@ -1,0 +1,27 @@
+{
+    "name": "Automation-2ZRTJJG2",
+    "city": "Noida",
+    "state": "UP",
+    "county": "Noida",
+    "email": "qa@test.com",
+    "fax": "9988998899",
+    "zip": "55718",
+    "addressLine1": "Address",
+    "phone": "9988998899",
+    "note": "qaNote",
+    "isAvailable": "true",
+    "isBillingOffice": "true",
+    "isAffiliate": "true",
+    "isOpen": "true",
+    "locationNumber": "527867647",
+    "hicfLocation": {
+        "key": "10"
+    },
+    "labAccountNumber": "L12300",
+    "taxId": "T123",
+    "npiNumber": "1134296023",
+    "groupNpi": "1134296023",
+    "onlineScheduleEmail": "qa@test.com",
+    "rxExpirationValidity": "60",
+    "clrxExpirationValidity": "60"
+}

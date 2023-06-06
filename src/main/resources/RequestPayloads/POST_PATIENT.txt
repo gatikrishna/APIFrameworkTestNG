@@ -1,0 +1,136 @@
+{
+    "firstName": "Automation-88NSY0X2",
+    "lastName": "Temp",
+    "dob": "09/09/1990",
+    "address": [
+        {
+            "type": 1,
+            "street": "streetone",
+            "addressLine1": "Alabama",
+            "addressLine2": "Hoover",
+            "city": "Anchorage",
+            "state": "AK",
+            "zip": "32536",
+            "preferred": true
+        }
+    ],
+    "smokingHistory": [
+        {
+            "_status": 2
+        }
+    ],
+    "providerInformation": [
+        {
+            "providerType": "PCP",
+            "provider": {
+                "providerId": "d0666541-4132-47ec-9a5f-5c19f1b9924e"
+            }
+        },
+        {
+            "providerType": "CM",
+            "provider": {
+                "providerId": "d0666541-4132-47ec-9a5f-5c19f1b9924e"
+            }
+        }
+    ],
+    "contactInformation": {
+        "phones": [
+            {
+                "type": 3,
+                "number": "4343543543",
+                "notes": "",
+                "isPreferred": true
+            }
+        ],
+        "emails": [
+            {
+                "type": 2,
+                "email": "abc@gmail.com",
+                "badqa@g.co": true,
+                "isPreferred": true
+            }
+        ],
+        "contactPreferenceDetail": {
+            "phone": false,
+            "email": true,
+            "text": false
+        }
+    },
+    "contactPrefrence": false,
+    "isPreferredContact": 0,
+    "race_checkbox": {
+        "Declined": false,
+        "White": false,
+        "Asian": false,
+        "Black": false
+    },
+    "ethnicity_checkbox": {
+        "Declined": false,
+        "Ethnicity 1": false,
+        "Ethnicity 2": false
+    },
+    "title": 1,
+    "age": "0",
+    "sex": 1,
+    "guarantor": {
+        "title": 1,
+        "firstName": "Automation-88NSY0X2",
+        "lastName": "Temp",
+        "dob": "09/09/1990",
+        "sex": 2,
+        "ssn": "123-45-6789",
+        "relationship": "99",
+        "releaseHippaInfo": true,
+        "contactInformation": {
+            "phones": [
+                {
+                    "type": 3,
+                    "number": "0987654321",
+                    "notes": "Thisnumbershouldnotbeusedfortest",
+                    "isPreferred": true,
+                    "isBad": true
+                }
+            ],
+            "emails": [
+                {
+                    "type": 2,
+                    "email": "mabfbf@gmail.com",
+                    "badqa@g.co": true
+                }
+            ]
+        },
+        "address": [
+            {
+                "type": 1,
+                "addressLine1": "ifs",
+                "city": "Irving",
+                "state": "TX",
+                "zip": "51241",
+                "preferred": true,
+                "isBadAddress": false
+            }
+        ]
+    },
+    "patientDetails": {
+        "isFlagChartless": false,
+        "isFlagNew": true,
+        "occupation": 192,
+        "maritalStatus": 5,
+        "maidenName": "Maiden Name",
+        "employer": "Maiden GL",
+        "referralSource": 1,
+        "sexualOrientation": 1,
+        "genderIdentities": 3,
+        "previousLastName": "Last Name",
+        "previousMiddleName": "Middle Name",
+        "previousFirstName": "First Name",
+        "reason": 1,
+        "race": [
+            511
+        ],
+        "ethnicity": [
+            31
+        ],
+        "deceasedDate": null
+    }
+}
